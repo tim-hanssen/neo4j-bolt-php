@@ -1,5 +1,5 @@
 {
-  "name": "plumtreesystems/neo4j-bolt",
+  "name": "tim-hanssen/neo4j-bolt",
   "description": "Neo4j Bolt Binary Protocol PHP Driver",
   "type": "library",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "php": ">=7.2",
     "ext-bcmath": "*",
     "ext-mbstring": "*",
-    "symfony/event-dispatcher": "^2.7|^3.0|^4.0",
+    "symfony/event-dispatcher": "^5.0",
     "graphaware/neo4j-common": "^3.4",
     "myclabs/php-enum": "^1.4",
     "ext-json": "*"
